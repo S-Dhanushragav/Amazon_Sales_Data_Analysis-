@@ -1,5 +1,5 @@
-#Amazon Sales Data Analysis Project
-##Project Overview
+#Amazon Sales Data Analysis Project  
+Project Overview
 This project involves an in-depth analysis of Amazon's sales data, aimed at uncovering key patterns, trends, and insights to optimize business strategies. The analysis utilizes various data science techniques, including Exploratory Data Analysis (EDA), clustering, and dimensionality reduction (PCA and t-SNE), to examine sales performance, customer behavior, and fulfillment methods. The goal is to provide actionable insights that can drive marketing, inventory management, and customer engagement strategies for Amazon.
 
 ##Key Objectives
